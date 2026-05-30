@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpender",
+        "uuid": 7416818,
+        "checksum": "16ekeh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
